@@ -7,6 +7,7 @@
 
 ## 🛠 Most Technology stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
