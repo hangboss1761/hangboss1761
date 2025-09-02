@@ -21,7 +21,3 @@
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hangboss1761&show_icons=true&count_private=true&theme=buefy" />
   <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangboss1761&layout=compact&hide=html,vue,shell"/>
 </p> 
-
-## 📞 Contact
-
-![Gmail](https://img.shields.io/badge/-hangboss97@gmail.com-333333?style=flat&logo=Gmail)
