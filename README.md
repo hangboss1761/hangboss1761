@@ -4,8 +4,6 @@
 
 - 😀 Frontend developer
 - 💪 Love sports
-- 🎾 Want to play tennis every day
-- 🤖 Have multiple AI employees working for me
 
 ## 🛠 Most Technology stack
 
